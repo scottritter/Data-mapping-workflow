@@ -1,5 +1,5 @@
-# Advanced data journalism: Powerful data reporting and mapping tools
-
+# Scott's version of Advanced data journalism: Powerful data reporting and mapping tools
+Wherein I practice stuff learned from John Keefe's Knight Center class
 Welcome!
 
 This is _your_ copy of the code for this class. In one of the introductory videos, you'll learn how to keep this copy in your own Github account and run it in a "computer in the cloud" called a "codespace."
