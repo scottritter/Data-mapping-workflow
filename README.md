@@ -1,6 +1,6 @@
 # Scott's version of Advanced data journalism: Powerful data reporting and mapping tools
 
-Wherein I practice stuff learned from John Keefe's Knight Center class.
+**Wherein I practice stuff learned in John Keefe's Knight Center class**
 
 His notes follow:
 
